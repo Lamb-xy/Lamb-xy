@@ -6,9 +6,9 @@
 
 持续学习前端开发，立志成为优秀的前端开发工程师~做个终身学习者。
 
-- 🏡 个人博客：https://Lamb-xy.github.io
+- 🏡 个人博客：http://blog.xiaoyangmm.top
 - 💬 QQ: 1462676302 (小阳咩咩)
-- 🌱 项目经历：<a href="" target="_blank">待完善</a> | <a href="" target="_blank">待完善</a> | <a href="https://github.com/Lamb-xy/" target="_blank">求星星 ✨</a>
+- 🌱 项目经历：<a href="https://github.com/Lamb-xy/Mympvue-Read" target="_blank">小羊Read小程序</a> | <a href="https://github.com/Lamb-xy/admin-front-read" target="_blank">电子书后台管理</a> | 求星星 ✨
 
 ## Github Status ✨
 
