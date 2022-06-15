@@ -8,7 +8,7 @@
 
 - 🏡 个人博客：http://blog.xiaoyangmm.top
 - 💬 QQ: 1462676302 (小阳咩咩)
-- 🌱 项目经历：<a href="https://github.com/Lamb-xy/Mympvue-Read" target="_blank">小羊Read小程序</a> | <a href="https://github.com/Lamb-xy/admin-front-read" target="_blank">电子书后台管理</a> | 求星星 ✨
+- 🌱 项目经历：<a href="https://github.com/Lamb-xy/Mympvue-Read" target="_blank">小羊Read小程序</a> | <a href="https://github.com/Lamb-xy/admin-front-read" target="_blank">电子书后台管理</a> | <a href="https://github.com/Lamb-xy/vue-music" target="_blank">电子书后台管理</a> | 求星星 ✨
 
 ## Github Status ✨
 
