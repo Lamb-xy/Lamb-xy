@@ -1,13 +1,11 @@
 
-## Hi！我是小阳咩咩✌️ 
+## Hi！我是小羊咩咩✌️ 
 
 
 > **不摸鱼，不摆烂！！**
 
-持续学习前端开发，立志成为优秀的前端开发工程师~做个终身学习者。
-
 - 🏡 个人博客：https://xiaoyangmm.top
-- 💬 QQ: 1462676302 (小阳咩咩)
+- 💬 QQ: 1462676302 (小羊)
 - 🌱 项目经历：<a href="https://github.com/Lamb-xy/Mympvue-Read" target="_blank">小羊Read小程序</a> | <a href="https://github.com/Lamb-xy/admin-front-read" target="_blank">电子书后台管理</a> | <a href="https://github.com/Lamb-xy/vue-music" target="_blank">移动端音乐App</a>
 
 ## Github Status ✨
